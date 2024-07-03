@@ -3,7 +3,9 @@
 ![image](https://github.com/VenisBeqiri/Knight-s-Journey/assets/129770545/493a9d18-491e-4fff-a74e-603b654a8ff7)
 
 
-**Knight's Journey** is a cool and simple game made in GoDot with GDScript
+**Knight's Journey** is a cool and simple game made in GoDot with GDScript.
+
+It also has Controller Support!
 
 
 ## Installation
